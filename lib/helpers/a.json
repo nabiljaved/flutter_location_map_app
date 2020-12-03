@@ -1,0 +1,45 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.278453,
+            49.332799
+          ]
+        },
+        "properties": {
+          "housenumber": "4",
+          "street": "Lindenstraße",
+          "distance": 71.10288635984215,
+          "country": "Deutschland",
+          "county": "Landkreis Nürnberger Land",
+          "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "© OpenStreetMap contributors",
+            "license": "Open Database Licence",
+            "url": "https://www.openstreetmap.org/copyright"
+          },
+          "country_code": "de",
+          "postcode": "90592",
+          "state": "Bayern",
+          "district": "Schwarzenbruck",
+          "city": "Schwarzenbruck",
+          "lon": 11.278453,
+          "lat": 49.332799,
+          "result_type": "building",
+          "name": "Zur Linde",
+          "formatted": "Zur Linde, Lindenstraße 4, 90592 Schwarzenbruck, Deutschland",
+          "address_line1": "Zur Linde",
+          "address_line2": "Lindenstraße 4, 90592 Schwarzenbruck, Deutschland",
+          "rank": {
+            "popularity": 4.774899412706985
+          },
+          "place_id": "5139f24064918e2640591d925a2899aa4840f00103f901f330fc1100000000"
+        }
+      }
+    ]
+  }
